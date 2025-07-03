@@ -1,0 +1,14 @@
+# Data Science Project - Group 7
+
+## Topic: XAI - Switching Behaviour in Health Insurance
+
+### Goal: Explainable AI for Understanding Switching Behaviour in Statutory Health Insurance
+
+## Tasks
+- Preprocess and integrate insurer-level data with Customer Monitor survey responses and profile dimensions.
+- Perform exploratory analysis to identify dominant switching patterns across demographic and behavioral segments.
+- Train interpretable models and black-box models for comparison.
+- Apply XAI methods (e.g., SHAP, LIME, counterfactual explanations, etc.) to analyze feature contributions.
+- Cluster individuals into personas based on key switching drivers and probabilities.
+- Build a dashboard prototype to visualize personas, feature influences, and switching likelihood across segments.
+
