@@ -12,9 +12,24 @@
 - Cluster individuals into personas based on key switching drivers and probabilities.
 - Build a dashboard prototype to visualize personas, feature influences, and switching likelihood across segments.
 
+## 🛠 Technologies & Tools
 
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **Machine Learning:** XGBoost, Logistic Regression, Explainable Boosting Machines
+- **Explainable AI:** SHAP, LIME, Anchor Explanations, Counterfactuals
+- **Dashboard:** Streamlit
 
-## 🚀 How to Run
+## 💡 Key Findings
+
+- Core drivers for switching are price-performance dissatisfaction, poor digital experiences, and perceived unreliability.
+- Distinct personas identified:
+  - **Active but Dissatisfied Switchers**
+  - **Disillusioned Frequent Switchers**
+  - **Information Seeking Skeptics**
+  - **Skeptical Active Switchers**
+- XGBoost + SHAP model achieved an accuracy of **83%**, balancing performance and interpretability.
+
+## 🚀 How to Run?
 
 To launch the interactive dashboard, simply run the following command in your terminal:
 
