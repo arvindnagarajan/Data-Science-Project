@@ -12,3 +12,12 @@
 - Cluster individuals into personas based on key switching drivers and probabilities.
 - Build a dashboard prototype to visualize personas, feature influences, and switching likelihood across segments.
 
+
+
+## 🚀 How to Run
+
+To launch the interactive dashboard, simply run the following command in your terminal:
+
+```bash
+streamlit run app.py
+
