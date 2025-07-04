@@ -12,6 +12,8 @@
 - Cluster individuals into personas based on key switching drivers and probabilities.
 - Build a dashboard prototype to visualize personas, feature influences, and switching likelihood across segments.
 
+![image](https://github.com/user-attachments/assets/158d0003-cd3c-4783-95f1-172f4b3a86e7)
+
 ## 🛠 Technologies & Tools
 
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
