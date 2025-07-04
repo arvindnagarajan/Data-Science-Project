@@ -20,4 +20,6 @@ To launch the interactive dashboard, simply run the following command in your te
 
 ```bash
 streamlit run model_and_dashboard.py
+```
 
+The model_and_dashboard.py file contains the XGBoost model, SHAP explanations, K means clustering and the Streamlit dashboard.
