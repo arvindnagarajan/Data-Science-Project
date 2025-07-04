@@ -8,7 +8,7 @@
 - Preprocess and integrate insurer-level data with Customer Monitor survey responses and profile dimensions.
 - Perform exploratory analysis to identify dominant switching patterns across demographic and behavioral segments.
 - Train interpretable models and black-box models for comparison.
-- Apply XAI methods (e.g., SHAP, LIME, counterfactual explanations, etc.) to analyze feature contributions.
+- Apply XAI methods (SHAP) to analyze feature contributions.
 - Cluster individuals into personas based on key switching drivers and probabilities.
 - Build a dashboard prototype to visualize personas, feature influences, and switching likelihood across segments.
 
