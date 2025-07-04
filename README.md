@@ -42,10 +42,10 @@ The model_and_dashboard.py file contains the XGBoost model, SHAP explanations, K
 
 ## Python Notebooks
 
-1. Insurer_Level_Dataset_Integration:\\
+1. Insurer_Level_Dataset_Integration:  
   For this notebook, please upload the 'Zusatzbeitrag_je Kasse je Quartal' and 'Insurer_Level_Data' files. After the upload, each code block can be run to create the 'Final_Insurer_Level_Dataset' file
-2. Insurer_Level_Stats_Visualization:
+2. Insurer_Level_Stats_Visualization:  
   For this notebook, please upload the 'Final_Insurer_Level_Dataset' file. After the upload, each code block can be run and visualizations will be generated.
-3. Kundenmonitor_Dataset_Preprocessing_and_EDA:
+3. Kundenmonitor_Dataset_Preprocessing_and_EDA:  
    For this notebook, please upload the 'Kundenmonitor_Questions_Summary' file. After the upload, each code block can be run and visualizations will be generated.
    
